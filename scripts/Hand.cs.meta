@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 41d3e604807b50f448023345842a6177
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RightUp: {instanceID: 0}
+  - LeftUp: {instanceID: 0}
+  - LeftDown: {instanceID: 0}
+  - RightDown: {instanceID: 0}
+  - RightFoot: {instanceID: 0}
+  - LeftFoot: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - glowMaterial: {fileID: 2100000, guid: 600d7c82d124f3e469f2e790f51df0bf, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
